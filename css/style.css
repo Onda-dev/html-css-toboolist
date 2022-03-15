@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: lightgray;
+    background-color: rgb(246, 247, 249);
     font-family: 'Roboto', sans-serif;
 }
 
@@ -63,9 +63,9 @@ button {
 
 .blue-button {
     color: white;
-    background-color: rgb(106, 200, 243);
+    background-color: rgb(71, 173, 241);
     border-style: solid;
-    border-color: rgb(106, 200, 243);
+    border-color: rgb(71, 173, 241);
 }
 
 .empty-button {
@@ -90,13 +90,13 @@ ul {
 }
 
 .check {
-    border: 1px solid greenyellow;
-    color: greenyellow;
+    border: 1px solid rgb(101, 192, 169);
+    color: rgb(101, 192, 169);
 }
 
 .cross {
-    border: 1px solid rgb(255, 47, 47);
-    color: rgb(255, 47, 47);
+    border: 1px solid rgb(234, 66, 55);
+    color: rgb(234, 66, 55);
 }
 
 .icon {
@@ -109,25 +109,25 @@ ul {
 }
 
 .editorial {
-    background-color: rgb(106, 200, 243);
+    background-color: rgb(71, 173, 241);
 }
 
 .goals {
-    background-color: blueviolet;
+    background-color: rgb(156, 114, 228);
 }
 
 .recruiting {
-    background-color: rgb(91, 241, 209);
+    background-color: rgb(100, 192, 169);
 }
 
 .mobile {
-    background-color: orange;
+    background-color: rgb(242, 158, 51);
 }
 
 .website {
-    background-color: rgb(116, 216, 91);
+    background-color: rgb(216, 99, 161);
 }
 
 .sales {
-    background-color: green;
+    background-color: rgb(176, 201, 38);
 }
