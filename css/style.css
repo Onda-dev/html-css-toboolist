@@ -23,3 +23,34 @@ header h1 {
 header img {
     vertical-align: middle;
 }
+
+.container {
+    width: 1000px;
+    background-color: white;
+    margin: 50px auto;
+    padding-top: 16px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+button {
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.blue-button {
+    color: white;
+    background-color: rgb(106, 200, 243);
+    border: none;
+}
+
+.empty-button {
+    background-color: white;
+    border-style: solid;
+    border-color: lightgrey;
+    color: lightgrey;
+}
